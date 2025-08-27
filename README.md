@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![wakatime](https://wakatime.com/badge/user/018edf65-cbd1-4c86-b6d5-3b9824f73ae1.svg)](https://wakatime.com/@018edf65-cbd1-4c86-b6d5-3b9824f73ae1)
+<a href="https://wakatime.com/@018edf65-cbd1-4c86-b6d5-3b9824f73ae1"><img src="https://wakatime.com/badge/user/018edf65-cbd1-4c86-b6d5-3b9824f73ae1.svg" alt="Total time coded since Apr 14 2024" /></a>
 
 <!--
 **Luciano899/Luciano899** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
