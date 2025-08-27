@@ -1,4 +1,8 @@
 ## Hi there 👋
+﻿<!-- Header -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6E92D2&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Staatliches&size=35&pause=1000&color=6E92D2&vCenter=true&center=true&width=1000&lines=Federal+University+of+Piau%C3%AD;Software+Developer)](https://git.io/typing-svg)
 
 <a href="https://wakatime.com/@018edf65-cbd1-4c86-b6d5-3b9824f73ae1"><img src="https://wakatime.com/badge/user/018edf65-cbd1-4c86-b6d5-3b9824f73ae1.svg" alt="Total time coded since Apr 14 2024" /></a>
 
