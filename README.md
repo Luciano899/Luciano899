@@ -1,11 +1,7 @@
 ## Hi there 👋
 
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/wakatime?username=lucianob&layout=compact&custom_title=Wakatime%20Stats&hide_border=true&title_color=FFFFFF&text_color=ffffff&bg_color=0d1117"
-    alt="Wakatime Stats"
-  />
-</div>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!--
 **Luciano899/Luciano899** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
