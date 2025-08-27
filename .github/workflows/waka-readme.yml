@@ -16,3 +16,9 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           TIME_RANGE: "all_time"
           TARGET_BRANCH: main
+          SHOW_TITLE: true        # mostra um título antes da tabela
+          LANG_COUNT: 8           # número máximo de linguagens a exibir
+          SHOW_TIME: true         # mostra o tempo total em horas/minutos
+          SHOW_TOTAL: true        # mostra o total geral
+          CODE_LANG: txt          # formato de código (txt, yaml, md, etc.)
+          BLOCKS: "░▒▓█"          # estilo das barras de progresso
