@@ -6,9 +6,9 @@
 > **🎓 Estudante do 4º período de Sistemas de Informação na UFPI – CSHNB**
 
 ## 💻 Tech Skills
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Prolog](https://img.shields.io/badge/Prolog-0F4B8F?style=for-the-badge&logo=prolog&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=blue)
+![Prolog](https://img.shields.io/badge/Prolog-0F4B8F?style=for-the-badge&logo=prolog&logoColor=orange)
 
 
 
